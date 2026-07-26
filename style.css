@@ -7,4 +7,4 @@ ul{color:yellow; font-family: Segoe Script; text-align:left;}
 li{color:darkblue; font-family: Segoe Script; text-align:left;}
 a{color:rgb(255, 157, 0); font-family: Segoe Script; text-align:left;}
 img{display: block; margin-left: auto; margin-right: auto; width: 300px; height: 200px;}
-.mybox {border: 10px solid aqua; padding: 10px; margin: 10px;}
+.mybox {border: 10px solid rgb(98, 0, 255); padding: 10px; margin: 10px;}
